@@ -1,0 +1,15 @@
+Last login: Sun Sep 13 21:20:10 on ttys000
+jesseboon@mbp-van-jesse ~ % python3
+Python 3.8.5 (v3.8.5:580fbb018f, Jul 20 2020, 12:11:27) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print("Hello you!, ik ben jesse")
+Hello you!, ik ben jesse
+>>> print("Wie ben jij?")
+Wie ben jij?
+>>> print("Ik ben Jan")
+Ik ben Jan
+>>> print("Hello Jan")
+Hello Jan
+>>> 
+
