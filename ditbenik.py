@@ -37,5 +37,39 @@ print(" wat verwacht ik van de opleiding?")
             if antwoord == "b" or antwoord == "b"
             print('wrong")
             if antwoord == "c" or antwoord == "c"
-            print("good") 
-            
+            print("good")
+
+print("wat is mijn favoriete eten?)
+      print(" a: Patatje")
+      print(" b: pizza")
+      print(" c: boerenkool")
+      antwoord = input("typ a, b of c")
+      if antwoord == "a" or antwoord == "a"
+      print("good!")
+      if antwoord == "b" or antwoord == "b"
+      print("wrong")
+      if antwoord == "c" or antwoord == "c"
+      print("wrong") 
+      else:
+          print("je kunt alleen a,b of c kiezen")
+
+print("waar staat alkmaar bekend om?")
+       print(" a: grachten")
+       print(" b: kaas")
+       print(" c: bollenveld")
+       antwoord = input("typ a, b of c")
+       if antwoord == "a" or antwoord == "a"
+       print("wrong")
+       if antwoord == "b" or antwoord == "b"
+       print("good")
+       if antwoord == "c" or antwoord == "c"
+       print("Wrong")
+       else:
+           print("typ a,b of c")
+
+
+           
+       
+
+
+
